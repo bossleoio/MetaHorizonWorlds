@@ -1,2 +1,2 @@
-# MetaHorizonWorlds
-Open-source scripts to be used with Meta Horizon Worlds
+# Social Quiz Card Game
+Start social game template to build your first soial game.
